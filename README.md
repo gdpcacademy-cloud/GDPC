@@ -1,1 +1,1 @@
-# under-maintenance
+# Girija Devi Polytechnic College (GDPC)
