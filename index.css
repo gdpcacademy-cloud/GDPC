@@ -1242,7 +1242,6 @@
   font-size: 1.5rem;
   line-height: 1.4;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  font-weight: 400;
   margin: 15px 0 0;
 }
 
@@ -1294,7 +1293,6 @@
   font-size: 1.5rem;
   line-height: 1.4;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  font-weight: 400;
   margin: 15px 0 0;
 }
 
@@ -1347,7 +1345,6 @@
   font-size: 1.5rem;
   line-height: 1.4;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  font-weight: 400;
   margin: 15px 0 0;
 }
 
@@ -1399,7 +1396,6 @@
   font-size: 1.5rem;
   line-height: 1.4;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  font-weight: 400;
   margin: 15px 0 0;
 }
 
@@ -1433,6 +1429,7 @@
   .u-section-10 .u-text-3 {
     width: auto;
     margin-top: 26px;
+    font-weight: 400;
   }
 
   .u-section-10 .u-btn-1 {
@@ -1450,6 +1447,7 @@
   .u-section-10 .u-text-4 {
     width: auto;
     margin-top: 26px;
+    font-weight: 400;
   }
 
   .u-section-10 .u-btn-2 {
@@ -1467,6 +1465,7 @@
   .u-section-10 .u-text-5 {
     width: auto;
     margin-top: 26px;
+    font-weight: 400;
   }
 
   .u-section-10 .u-btn-3 {
@@ -1484,6 +1483,7 @@
   .u-section-10 .u-text-6 {
     width: auto;
     margin-top: 26px;
+    font-weight: 400;
   }
 
   .u-section-10 .u-btn-4 {
@@ -3713,17 +3713,17 @@
 }
 
 .u-section-14 .u-container-layout-9 {
-  padding: 0 0 30px;
+  padding: 30px 0;
 }
 
 .u-section-14 .u-list-2 {
-  margin-top: 51px;
+  margin-top: 21px;
   margin-bottom: 0;
 }
 
 .u-section-14 .u-repeater-2 {
   grid-template-columns: repeat(4, calc(25% - 22.5px));
-  min-height: 426px;
+  min-height: 441px;
   grid-auto-columns: 262.5px 262.5px 262.5px 262.5px;
   --gap: 30px;
 }
